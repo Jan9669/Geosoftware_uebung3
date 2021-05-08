@@ -1,1 +1,0 @@
-# Geosoftware_uebung3
