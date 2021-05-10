@@ -1,4 +1,4 @@
-// Comment for testing.
+// Comment for testing jantest
 
 //Comment by Jakob
 var x = document.getElementById("demo");
