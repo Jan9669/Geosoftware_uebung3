@@ -1,3 +1,4 @@
+// Comment for testing.
 var x = document.getElementById("demo");
 //location of browser
 
